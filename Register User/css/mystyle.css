@@ -1,0 +1,24 @@
+header{
+    word-spacing: 10px;
+}
+body{
+    background-color: burlywood;
+}
+input{
+    display: flex;  
+}
+#usersTable{
+    width: 100%;
+}
+.color{
+   display: flex;
+}
+
+#usersTables,
+th,
+td{
+    border: 1px solid grey;
+}
+.error{
+    border: 1px solid red;
+}
